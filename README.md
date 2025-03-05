@@ -6,7 +6,6 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering implements engineering methodologies to develop and maintain software through design stages and testing procedures until software deployment and continuous maintenance. Software systems achieve reliability along with efficiency and scalability and meet all necessary user needs through software engineering methods.  
-
 Technology industry depends on software engineering because this discipline enables the development and upkeep of software applications which operate companies, healthcare institutions, financial industries and educational institutions. 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
